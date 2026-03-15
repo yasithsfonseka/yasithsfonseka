@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .net & angular
 - 💞️ I’m looking to collaborate on innovative software projects
 - 📫 Reach me https://yasithfonseka.netlify.app/
-- 😄 Pronouns: Yazi
+- 😄 Pronouns: Yash
 - ⚡ Fun fact: Gym & Martial Art lover
 
 <!---
